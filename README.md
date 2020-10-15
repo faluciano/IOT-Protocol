@@ -1,2 +1,2 @@
 # IOT-Protocol
-Internet protocol implementation for IOT device
+Internet protocol implementation for IOT lightbulb
